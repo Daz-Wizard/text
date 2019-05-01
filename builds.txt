@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="Daz Build"
 version="1.0"
-url="https://bit.ly/2UEKyOT"
+url="https://bit.ly/DazBuild"
 minor="http://"
 gui="http://"
 kodi="18.0"
