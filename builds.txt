@@ -3,7 +3,7 @@ version="1.0"
 zip="url.to.wizard"
 
 name="Daz Build"
-version="1.0"
+version="1.1"
 url="https://bit.ly/DazBuild"
 minor="http://"
 gui="http://"
